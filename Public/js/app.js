@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
         method: 'POST',
         body: formData,
         headers: {
-          'Content-Type': 'application/x-www-form-urlencoded',
+          'Content-Type': '',
         },
       });
 
@@ -35,7 +35,7 @@ document.addEventListener('DOMContentLoaded', () => {
         method: 'POST',
         body: formData,
         headers: {
-          'Content-Type': 'application/x-www-form-urlencoded',
+          'Content-Type': '',
         },
       });
 
